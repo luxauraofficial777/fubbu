@@ -1,5 +1,5 @@
 # fubbu
-FUBBU Telemetric/Topological Agentic Orchestration Layer for VW NEXUS &amp; Liminal Link
+FUBBU Telemetric/Topological Agentic Orchestration Layer for VW NEXUS &amp; Liminal Lore
 # FUBBU
 
 **Fully Unmanaged Backbone Bridge Unit — local multi-agent orchestration sidecar.**
